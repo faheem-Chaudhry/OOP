@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3\oop assignment 3\Source.cpp(254,20): warning C4584: 'Fire': base-class 'Spaceship' is already a base-class of 'Rocket'
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3\oop assignment 3\Source.cpp(18): message : see declaration of 'Spaceship'
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3\oop assignment 3\Source.cpp(186): message : see declaration of 'Rocket'
+  oop assignment 3.vcxproj -> C:\Users\Ch FAHEEM\source\repos\oop assignment 3\Debug\oop assignment 3.exe

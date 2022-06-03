@@ -1,0 +1,4 @@
+﻿  Stringformatter.cpp
+C:\Users\Ch FAHEEM\source\repos\oop assign 1 task 2\oop assign 1 task 2\Stringformatter.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ch FAHEEM\source\repos\oop assign 1 task 2\oop assign 1 task 2\Stringformatter.cpp(46,20): warning C4018: '<=': signed/unsigned mismatch
+  oop assign 1 task 2.vcxproj -> C:\Users\Ch FAHEEM\source\repos\oop assign 1 task 2\Debug\oop assign 1 task 2.exe

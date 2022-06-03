@@ -1,0 +1,7 @@
+﻿  Matrix1.cpp
+C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 2\oop lab 6 task 2\Matrix1.cpp(214): warning C4715: 'Matrix::operator<=': not all control paths return a value
+C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 2\oop lab 6 task 2\Matrix1.cpp(235): warning C4715: 'Matrix::operator==': not all control paths return a value
+C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 2\oop lab 6 task 2\Matrix1.cpp(172): warning C4715: 'Matrix::operator<': not all control paths return a value
+C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 2\oop lab 6 task 2\Matrix1.cpp(151): warning C4715: 'Matrix::operator>': not all control paths return a value
+C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 2\oop lab 6 task 2\Matrix1.cpp(193): warning C4715: 'Matrix::operator>=': not all control paths return a value
+  oop lab 6 task 2.vcxproj -> C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 2\Debug\oop lab 6 task 2.exe

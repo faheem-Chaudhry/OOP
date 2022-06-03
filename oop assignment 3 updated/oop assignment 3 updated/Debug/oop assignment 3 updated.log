@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated\oop assignment 3 updated\game.h(105,20): warning C4584: 'Fire': base-class 'Spaceship' is already a base-class of 'Rocket'
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated\oop assignment 3 updated\game.h(31): message : see declaration of 'Spaceship'
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated\oop assignment 3 updated\game.h(86): message : see declaration of 'Rocket'
+  game.cpp
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated\oop assignment 3 updated\game.h(105,20): warning C4584: 'Fire': base-class 'Spaceship' is already a base-class of 'Rocket'
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated\oop assignment 3 updated\game.h(31): message : see declaration of 'Spaceship'
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated\oop assignment 3 updated\game.h(86): message : see declaration of 'Rocket'
+  Generating Code...
+  oop assignment 3 updated.vcxproj -> C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated\Debug\oop assignment 3 updated.exe

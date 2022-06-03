@@ -1,0 +1,8 @@
+﻿  IsocelesTriangle1.cpp
+  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 1\oop lab 6 task 1\Source.cpp(20,10): warning C4101: 's2': unreferenced local variable
+C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 1\oop lab 6 task 1\Source.cpp(21,10): warning C4101: 'a2': unreferenced local variable
+C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 1\oop lab 6 task 1\Source.cpp(12,6): warning C4101: 'sidee3': unreferenced local variable
+C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 1\oop lab 6 task 1\Source.cpp(11,6): warning C4101: 'sidee2': unreferenced local variable
+  Generating Code...
+  oop lab 6 task 1.vcxproj -> C:\Users\Ch FAHEEM\source\repos\oop lab 6 task 1\Debug\oop lab 6 task 1.exe

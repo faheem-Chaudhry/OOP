@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated updated\oop assignment 3 updated updated\game.h(105,20): warning C4584: 'Fire': base-class 'Spaceship' is already a base-class of 'Rocket'
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated updated\oop assignment 3 updated updated\game.h(31): message : see declaration of 'Spaceship'
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated updated\oop assignment 3 updated updated\game.h(86): message : see declaration of 'Rocket'
+Source.obj : error LNK2001: unresolved external symbol "int x_global" (?x_global@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int y_global" (?y_global@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int y_global2" (?y_global2@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int x_global2" (?x_global2@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int x_check1" (?x_check1@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int x_check2" (?x_check2@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int y_check1" (?y_check1@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int y_check2" (?y_check2@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int x_check3" (?x_check3@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int x_check4" (?x_check4@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int y_check3" (?y_check3@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int y_check4" (?y_check4@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int counter" (?counter@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int counter2" (?counter2@@3HA)
+Source.obj : error LNK2001: unresolved external symbol "int counter3" (?counter3@@3HA)
+C:\Users\Ch FAHEEM\source\repos\oop assignment 3 updated updated\Debug\oop assignment 3 updated updated.exe : fatal error LNK1120: 15 unresolved externals

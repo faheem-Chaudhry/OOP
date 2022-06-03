@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oop assignment 3", "oop assignment 3\oop assignment 3.vcxproj", "{C5026CC6-436C-4E99-A0BC-42263DDD4338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5026CC6-436C-4E99-A0BC-42263DDD4338}.Debug|x64.ActiveCfg = Debug|x64
+		{C5026CC6-436C-4E99-A0BC-42263DDD4338}.Debug|x64.Build.0 = Debug|x64
+		{C5026CC6-436C-4E99-A0BC-42263DDD4338}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5026CC6-436C-4E99-A0BC-42263DDD4338}.Debug|x86.Build.0 = Debug|Win32
+		{C5026CC6-436C-4E99-A0BC-42263DDD4338}.Release|x64.ActiveCfg = Release|x64
+		{C5026CC6-436C-4E99-A0BC-42263DDD4338}.Release|x64.Build.0 = Release|x64
+		{C5026CC6-436C-4E99-A0BC-42263DDD4338}.Release|x86.ActiveCfg = Release|Win32
+		{C5026CC6-436C-4E99-A0BC-42263DDD4338}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F33A7176-B7CF-4320-B926-2B4B0E7BFFA0}
+	EndGlobalSection
+EndGlobal

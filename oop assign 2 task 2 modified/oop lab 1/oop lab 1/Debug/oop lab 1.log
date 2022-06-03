@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\Ch FAHEEM\source\repos\oop lab 1\oop lab 1\Calculator.cpp(53,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ch FAHEEM\source\repos\oop lab 1\oop lab 1\Calculator.cpp(53,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  oop lab 1.vcxproj -> C:\Users\Ch FAHEEM\source\repos\oop lab 1\Debug\oop lab 1.exe
